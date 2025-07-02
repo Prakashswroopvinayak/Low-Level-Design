@@ -1,4 +1,4 @@
-package LLD.Low.Level.Design.multiLevelCache;
+package LowLevelDesign.multiLevelCache;
 import java.util.*;
 
 public interface EvictionPolicy {

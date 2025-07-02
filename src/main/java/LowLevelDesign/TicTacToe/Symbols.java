@@ -1,4 +1,4 @@
-package LLD.Low.Level.Design.TicTacToe;
+package LowLevelDesign.TicTacToe;
 
 public enum Symbols {
 

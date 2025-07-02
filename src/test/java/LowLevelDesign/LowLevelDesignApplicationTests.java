@@ -1,4 +1,4 @@
-package LLD.Low.Level.Design;
+package LowLevelDesign;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
