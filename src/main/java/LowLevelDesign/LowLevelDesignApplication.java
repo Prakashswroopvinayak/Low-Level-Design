@@ -1,4 +1,4 @@
-package LLD.Low.Level.Design;
+package LowLevelDesign;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

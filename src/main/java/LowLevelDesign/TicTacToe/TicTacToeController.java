@@ -1,4 +1,4 @@
-package LLD.Low.Level.Design.TicTacToe;
+package LowLevelDesign.TicTacToe;
 
 import java.util.Deque;
 import java.util.LinkedList;
